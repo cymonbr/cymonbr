@@ -47,6 +47,6 @@ Sou um desenvolvedor empolgado com as mudanças diárias da área de tecnologia,
 	<a href="https://twitter.com/cymonbr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 	<a href="https://twitch.tv/cymonbr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 	<a href="https://discord.gg/gybZsnEjnp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-
-	![Snake animation](https://github.com/cymonbr/cymonbr/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+<img width="100%" align="center" alt="Cymon-snake" src="https://github.com/cymonbr/cymonbr/blob/output/github-contribution-grid-snake.svg">
