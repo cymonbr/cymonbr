@@ -22,8 +22,9 @@ Sou um desenvolvedor empolgado com as mudanças diárias da área de tecnologia,
 
 <div>
 	<a href="https://github.com/cymonbr">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cymonbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cymonbr&layout=compact&langs_count=7&theme=dracula"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cymonbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cymonbr&layout=compact&langs_count=7&theme=dracula"/>
+	</a>
 </div>
 
 <div style="display: inline_block"><br>
@@ -46,6 +47,6 @@ Sou um desenvolvedor empolgado com as mudanças diárias da área de tecnologia,
 	<a href="https://twitter.com/cymonbr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 	<a href="https://twitch.tv/cymonbr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 	<a href="https://discord.gg/gybZsnEjnp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-	
+
 	![Snake animation](https://github.com/cymonbr/cymonbr/blob/output/github-contribution-grid-snake.svg)
 </div>
